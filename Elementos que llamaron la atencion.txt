@@ -1,0 +1,13 @@
+RadioButton
+	permite capturar informacion de verdadero o falso, tiene una funcion llamada
+	isChecked() que retorna verdadero si el usuario lo selecciono.
+	ejemplo: perfil privado ? verdadero / falso
+RadioGroup
+	permite organizar varios RadioButtons, se puede utilizar para restringir 
+	la eleccion de dos opciones que son mutuamente excluyentes.
+	ejemplo: sexo no puede ser masculino y femenino al mismo tiempo
+Switch
+	permite activar o desactivar una accion
+	ejemplo: modo avion 
+ImageView
+	permite visualizar una imagen
